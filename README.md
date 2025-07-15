@@ -1,2 +1,1 @@
-# Telegram AI Image Bot
-A powerful image-to-image and face-swap AI bot using HuggingFace and Telegram API.
+Replace '7314134429:AAG7ZBRNFMkBFtDZIK3pRh1fU8HlBWlNsXg' and '8007435296' in main.py before hosting.
